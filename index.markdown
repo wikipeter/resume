@@ -10,12 +10,12 @@ _Full Stack Web Developer aus Düsseldorf_ <br>
 
 ## 👨‍💻 Berufserfahrung
 
-**Freelance Full Stack Web Developer** _(Jan 2010 - Jan 2019)_ <br>
-Agenturservice & Realisierung von Web-Projekten für eigene Kunden
+**Freelance Full Stack Web Developer** _(Jan. 2010 - Jan. 2019)_ <br>
+Agenturservice & Realisierung von Webprojekten für eigene Kund:innen
 
 - **_Aufgaben:_**
-  - Beratung von Endkunden und Agenturen
-  - Projektmanagement Web basierter Projekte
+  - Beratung von Endkund:innen und Agenturen
+  - Projektmanagement webbasierter Projekte
   - Entwurf & technische Konzeption
   - Usability Engineering
   - Requirements Engineering
@@ -23,14 +23,14 @@ Agenturservice & Realisierung von Web-Projekten für eigene Kunden
   - Qualitätssicherung
   - Erstellung von Dokumentationen
   - Planung und Durchführung von Workshops und Redakteursschulungen
-  - Mentoring von Entwicklern, Kundensupport Mitarbeitern und Projektmanagern
+  - Mentoring von Entwickler:innen, Kundensupport Mitarbeiter:innen und Projektmanager:innen
   - Technische Betreuung und Umsetzung CMS basierter Projekte
   - Betrieb von Unix basierten Web-Servern (Root, VPS und Shared Hosting)
 
 - **_Besondere Erfolge:_**
-  - Einführung von Projektmanagement Standards in einem 5-Köpfigen Projektmanagement-Team
-  - Standardisierung der Entwicklungsumgebungen in einem 4-Köpfigen Entwickler-Team
-  - Aufbau und Betreuung eines 3-Köpfigen Support Teams
+  - Einführung von Projektmanagement Standards in einem fünfköpfigen Projektmanagement-Team
+  - Standardisierung der Entwicklungsumgebungen in einem vierköpfigen Entwickler:innen-Team
+  - Aufbau und Betreuung eines dreiköpfigen Suppor-Teams
   
 - **_Ausgewählte Projekte:_**
   - TYPO3 Distribution für Importeure in der Automobilbranche (Neu- und Gebrauchtwagenverkauf)
@@ -42,7 +42,7 @@ Agenturservice & Realisierung von Web-Projekten für eigene Kunden
 - **_Verwendete Applikationen:_**<br>Mac OS, Adobe Creative Suite, MS Office Suite, Redmine, ActiveCollab, Jira, Confluence, limesurvey, Balsamiq Mockup, Adobe UX, Axure, InVision, Bitbucket, Gitlab, Github, dokuwiki, PHP Storm, VS Code, Sublime Text, Tempo, Toggle
 <br><br>
 
-**Mediengestalter** @ [Norvlit Werbeagentur GmbH](https://www.norvlit.de) _(Sep 2006 - Jul 2009)_ <br>
+**Mediengestalter** @ [Norvlit Werbeagentur GmbH](https://www.norvlit.de) _(Sep. 2006 - Jul. 2009)_ <br>
 B2B Werbeagentur
 
 - **_Aufgaben:_**
@@ -63,19 +63,19 @@ B2B Werbeagentur
 ## 👨‍🎓 Ausblidung
 
 **Bachelor of Arts** in Medieninformatik<br>
-[HSD](https://hs-duesseldorf.de) - Düsseldorf _(Okt 2009 - Jetzt)_
+[HSD](https://hs-duesseldorf.de) - Düsseldorf _(Okt. 2009 - Jetzt)_
 
 **Ausbildung zum Mediengestalter** Fachr. Mediendesign non-print<br>
-[BK TM](http://www.bk-tm.de) - Mönchengladbach _(Sep 2006 - Jan 2009)_
+[BK TM](http://www.bk-tm.de) - Mönchengladbach _(Sep. 2006 - Jan. 2009)_
 <br><br>
 
 ### 💬 Über mich
 
 Inoffiziell 1982 geboren, fast mein halbes Leben glücklich liiert und seit 2018 Vater einer wundervollen Tochter.
 
-Ich habe eine handwerkliche Ader und repariere zudem in meiner Freizeit gerne Dinge. Ob Lötkolben oder Kappsäge, spielt dabei keine Rolle.
+Ich habe eine handwerkliche Ader und repariere zudem in meiner Freizeit gerne Dinge. Ob mit Lötkolben oder Kappsäge, spielt dabei keine Rolle.
 
-Ich unterstütze ältere, nicht technikaffine Menschen bei ihren Problemen mit dem technischen Fortschritt.
+Außerdem unterstütze ich ältere, nicht technikaffine Menschen bei ihren Problemen mit dem technischen Fortschritt.
 
 **_Weitere Interessen:_**
 - Kulinarik
