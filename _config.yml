@@ -53,3 +53,13 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# minimal theme specific configuration
+show_downloads: false
+portrait_image: /assets/img/portrait_image.jpg
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
