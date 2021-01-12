@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
+title: Resumé
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -63,3 +63,10 @@ defaults:
       path: "assets/img"
     values:
       image: true
+
+personal_info:
+  date_of_birth: 01.01.1983
+  street: Luisenstr. 69
+  city: 40215 Düsseldorf
+  email: peter[at]wikipeter.org
+  phone: +49 151 571 410 00
